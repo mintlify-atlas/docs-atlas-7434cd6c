@@ -1,0 +1,40 @@
+{
+  "projectType": "general",
+  "projectName": "Polytrack Import Codes",
+  "projectDescription": "A collection of custom Polytrack map import codes created by TiniTheBagel, ready to load directly into the browser-based racing game at kodub.itch.io/polytrack.",
+  "theme": "almond",
+  "primaryColor": "#d17ad7",
+  "lightColor": "#fb5c5c",
+  "darkColor": null,
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": ["introduction", "how-to-import"]
+      },
+      {
+        "group": "Maps",
+        "pages": [
+          "maps/amethyst-skyscraper",
+          "maps/bismuth-mines",
+          "maps/jade-mountain",
+          "maps/opal-palace",
+          "maps/quartz-city"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Five unique custom Polytrack maps",
+    "Lite versions available for performance-sensitive setups",
+    "Works directly with the Polytrack in-game import feature",
+    "Version history with WIP snapshots for select maps"
+  ],
+  "publicApiSurface": [
+    "Amethyst Skyscraper (full + lite)",
+    "Bismuth Mines",
+    "Jade Mountain",
+    "Opal Palace (original + repolished)",
+    "Quartz City"
+  ]
+}
